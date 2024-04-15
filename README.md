@@ -62,6 +62,7 @@ Create a new file named `.env` in the root of your project and add the following
 
    NEXT_PUBLIC_STREAM_API_KEY=
    STREAM_SECRET_KEY=
+   NEXT_PUBLIC_BASE_URL=localhost:3000
 ```
 
 Replace the placeholder values with your actual Clerk & getstream credentials. You can obtain these credentials by signing up on the <a href="https://clerk.com/">Clerk </a> website and <a href="https://getstream.io/">getstream </a> website
