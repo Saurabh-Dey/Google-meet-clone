@@ -64,7 +64,7 @@ Create a new file named `.env` in the root of your project and add the following
    STREAM_SECRET_KEY=
 ```
 
-Replace the placeholder values with your actual Clerk & getstream credentials. You can obtain these credentials by signing up on the Clerk website and getstream website
+Replace the placeholder values with your actual Clerk & getstream credentials. You can obtain these credentials by signing up on the <a href="https://www.bing.com/chat?form=NTPCHB">Clerk </a> website and getstream website
 
 
 ### Running the Project
