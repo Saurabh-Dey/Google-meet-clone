@@ -12,7 +12,7 @@
 * shadcn
 * Tailwind CSS
 
-#### Features
+## Features
 - Authentication: Implements authentication and authorization features using Clerk, allowing users to securely log in via social sign-on or traditional email and password methods, while ensuring appropriate access levels and permissions within the platform.
 
 -  New Meeting: Quickly start a new meeting, configuring camera and microphone settings before joining.
@@ -29,29 +29,14 @@
 and many more, including code architecture and reusability.
 
 
-#### For Administrators Dashboard Features:
-- A powerful and intuitive dashboard exclusively for administrators, allowing them to
-manage the product catalog and monitor orders.
-- Add new categories, create new products, edit existing products and product images,
-and manage product availability.
-- Monitor all orders and manage order processing, from receiving the order to delivering
-the product.
-- Visualize the number of in-stock and out-of-stock products using a pie chart, providing a
-quick overview of their inventory and helping to make informed decisions.
+## Quick Start:
+Follow these steps to set up the project locally on your machine.
 
-
-
-## Technologies and Tools
-
-- Node.js
-- React Native CLI
-- iOS or Android development environment setup
-- Stripe for Payment Integration
-- nodemailer for SMTP mail
-- mongoDB
-- React
-
-### Installation
+### Prerequisites
+Make sure you have the following installed on your machine:
+* Git
+* NodeJS
+* npm
 
 1. Clone the repository:
    ```sh
