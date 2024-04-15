@@ -73,16 +73,6 @@ Replace the placeholder values with your actual Clerk & getstream credentials. Y
    npm run dev
   ```
 
-## Some Snapshots
-
-<div style="display: flex;">
-  <img src="https://github.com/Saurabh-Dey/mern-react-native-ecom-frontend/blob/master/appScreenShots/homeScreen.png" width="300" height="600" style="margin-right: 20px;">
-  <img src="https://github.com/Saurabh-Dey/mern-react-native-ecom-frontend/blob/master/appScreenShots/online%20payment.png" width="300" height="600" style="margin-right: 20px;">
-  <img src="https://github.com/Saurabh-Dey/mern-react-native-ecom-frontend/blob/master/appScreenShots/adminpanel.png" width="300" height="600" style="margin-right: 20px;>
-  <img src="https://github.com/Saurabh-Dey/mern-react-native-ecom-frontend/blob/master/appScreenShots/myorders.png" width="300" height="600">
-</div>
-
-
 
 
 # Hi there, I'm Sourav Dey 👋
