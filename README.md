@@ -40,18 +40,15 @@ Make sure you have the following installed on your machine:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Saurabh-Dey/mern-react-native-ecom-frontend.git   
+   git clone https://github.com/Saurabh-Dey/Google-meet-clone.git
 2. Navigate to the Repository Directory Change into the directory that was created by the clone command:
    ```sh
    cd your-repository-directory
 3. Install Dependencies Run the following command to install all the dependencies listed in the package.json file:
    ```sh
    npm install
-4. Start the Node Server If the repository has a start script defined in the package.json, you can start the server using:
-   ```sh
-   npm start
 
-Remember to check the README.md file in the GitHub repository for any specific instructions related to the project you’re running. Also, ensure that you have Node.js and npm installed on your machine before executing these commands
+
 
 ### Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
 
