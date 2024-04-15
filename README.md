@@ -64,13 +64,14 @@ Create a new file named `.env` in the root of your project and add the following
    STREAM_SECRET_KEY=
 ```
 
-Replace the placeholder values with your actual Clerk & getstream credentials. You can obtain these credentials by signing up on the <a href="https://www.bing.com/chat?form=NTPCHB">Clerk </a> website and getstream website
+Replace the placeholder values with your actual Clerk & getstream credentials. You can obtain these credentials by signing up on the <a href="https://clerk.com/">Clerk </a> website and <a href="https://getstream.io/">getstream </a> website
 
 
 ### Running the Project
    ```sh
    npm run dev
   ```
+
 ## Some Snapshots
 
 <div style="display: flex;">
